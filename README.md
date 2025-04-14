@@ -100,16 +100,3 @@ MEM0_API_KEY=your_key_here
 4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
 5. 🔍 Open a Pull Request
 
-## 📝 License
-
-[MIT License](LICENSE) - feel free to use this project for your own purposes!
-
-## 🌟 Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-<div align="center">
-Made with ❤️ by Paul
-</div>
